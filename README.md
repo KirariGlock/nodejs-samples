@@ -1,5 +1,7 @@
 # nodejs-samples
 Node.js Samples
 
-# 参考サイト
-https://qiita.com/KeitaMoromizato/items/ae1a57fc62b41b942d71
+# Start hello world
+1. docker-compose build
+1. docker-compose up
+1. access url http://localhost:3000
