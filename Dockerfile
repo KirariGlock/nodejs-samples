@@ -4,4 +4,4 @@ ENV HOME=/home/app
 
 WORKDIR $HOME
 
-CMD ["node", "app.js"]
+CMD ["node", "hello-world.js"]
